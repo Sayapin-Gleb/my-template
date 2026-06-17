@@ -1,7 +1,7 @@
 {
-  "author": "Florian Maas",
-  "email": "foo@email.com",
-  "author_github_handle": "fpgmaas",
+  "author": "Gleb Sayapin",
+  "email": "me@saapingleb.ru",
+  "author_github_handle": "SAYAPIN-GLEB",
   "project_name": "example-project",
   "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
   "project_description": "This is a template repository for Python projects that use uv for their dependency management.",
